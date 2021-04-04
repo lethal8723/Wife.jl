@@ -1,6 +1,6 @@
 name = "Wife"
 uuid = "cc3d389a-abdb-4130-8afe-c65e6d41495c"
-authors = ["lethal8723 <kei.hanafusa@gmail.com> and contributors"]
+authors = ["hanafsky <hanafsky@gmail.com> and contributors"]
 version = "0.1.0"
 
 [deps]
